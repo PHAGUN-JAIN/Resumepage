@@ -1,0 +1,136 @@
+{
+  "main": {
+    "name":"PHAGUN JAIN",
+    "description":"I am a uprising 3rd year BTech CSE student. This project is a  resume page",
+    "image":"profilepic.jpg",
+    "bio":"I am mainly learning Devops practices and various tools used to achieve those, apart from that i am extremly intrested in blockchain and little bit of design stuff too, in short i m a complete package always looking forward for new opportunities and open for any kind of discussion",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "youremailhere@gmail.com",
+    "phone": "555-555-5555",
+    "github":"https://github.com/PHAGUN-JAIN",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://",
+    "resumedownload":"http://",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/phagun_jain",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/phagun-jain-88b532190/?originalSubdomain=in",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/PHAGUN-JAIN",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University Of Petroleum and Energy Studies",
+        "degree":"Bachelors in Computer Science",
+        "graduated":"since 2019",
+        "description":"currently pursuing one of the devops program, learrning about microservices, devops practices, little bit of design and blockchain"
+      },
+      {
+        "school":"Hindu Vidya Peeth",
+        "degree":"Non-Medical with IP",
+        "graduated":"May 2019",
+        "description":"Studied here from my 3rd grade till 12th grade, it was a lovely place almost was a second home for me for all those years"
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2018 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2017 - February 2018",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"JAVA",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },      
+      {
+        "name":"JAVASCRIPT",
+        "level":"90%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML",
+        "level":"80%"
+      },
+      {
+        "name":"GIT/GITHUB",
+        "level":"50%"
+      },
+      {
+        "name":"DOCKER",
+        "level":"60%"
+      },
+      {
+        "name":"Python",
+        "level":"55%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Tcp, Udp, Http ",
+        "category":"My Learning Blog",
+        "image":"banner.png",
+        "url":"https://dev.to/phagunjain/tcp-udp-http-4595"
+      },
+      {
+        "title":"default constructor",
+        "category":"My Learning Blog",
+        "image":"banner.png",
+        "url":"https://dev.to/phagunjain/why-is-it-important-to-create-a-default-constructor-explicitly-when-we-create-a-parametrized-constructor-explicitly-3pan"
+      },
+      {
+        "title":"Error: Could not...",
+        "category":"My Learning Blog",
+        "image":"banner.png",
+        "url":"https://dev.to/phagunjain/error-could-not-find-or-load-main-class-1pb9"
+      },
+      {
+        "title":"setup jdk in windows10",
+        "category":"My Learning Blog",
+        "image":"banner.png",
+        "url":"https://dev.to/phagunjain/how-to-setup-java-in-windows-10-59kc"
+      }
+    ]
+  }
+}
