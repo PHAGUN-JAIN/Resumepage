@@ -4,11 +4,11 @@
     "description":"I am a uprising 3rd year BTech CSE student. This project is a  resume page",
     "image":"profilepic.jpg",
     "bio":"I am mainly learning Devops practices and various tools used to achieve those, apart from that i am extremly intrested in blockchain and little bit of design stuff too, in short i m a complete package always looking forward for new opportunities and open for any kind of discussion",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"#keep learning",
     "email": "youremailhere@gmail.com",
     "phone": "555-555-5555",
     "github":"https://github.com/PHAGUN-JAIN",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "project":"https://github.com/PHAGUN-JAIN/Resumepage",
     "address":{
       "street":"(Your Street)",
       "city":"(Your City)",
@@ -29,11 +29,6 @@
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
         "url":"https://github.com/PHAGUN-JAIN",
         "className":"fa fa-github"
@@ -41,7 +36,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Learn Un-Learn Re-Learn",
     "education":[
       {
         "school":"University Of Petroleum and Energy Studies",
