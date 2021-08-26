@@ -3,7 +3,7 @@
     "name":"PHAGUN JAIN",
     "description":"I am a uprising 3rd year BTech CSE student. This project is a  resume page",
     "image":"profilepic.jpg",
-    "bio":"I am mainly learning Devops practices and various tools used to achieve those, apart from that i am extremly intrested in blockchain and little bit of design stuff too, in short i m a complete package always looking forward for new opportunities and open for any kind of discussion",
+    "bio":"I am mainly learning Devops practices and various tools used to achieve those, apart from that i am intrested in blockchain and little bit of design stuff, always looking forward for new opportunities and open for any kind of discussion",
     "contactmessage":"#keep learning",
     "email": "youremailhere@gmail.com",
     "phone": "555-555-5555",
@@ -40,22 +40,29 @@
     "education":[
       {
         "school":"University Of Petroleum and Energy Studies",
-        "degree":"Bachelors in Computer Science",
-        "graduated":"since 2019",
+        "degree":"BTech (Hons.) ",
+        "graduated":"CSE DEVOPS",
         "description":"currently pursuing one of the devops program, learrning about microservices, devops practices, little bit of design and blockchain"
       },
       {
         "school":"Hindu Vidya Peeth",
         "degree":"Non-Medical with IP",
-        "graduated":"May 2019",
+        "graduated":"PCM",
         "description":"Studied here from my 3rd grade till 12th grade, it was a lovely place almost was a second home for me for all those years"
       }
     ],
     "work":[
       {
-        "title": "comming Soon!"
-
-       
+        "company":"Voting Application",
+        "title":"Nodejs, astradb(cassandra as a service), postman ",
+        "years":"SOLO project ",
+        "description":"https://github.com/PHAGUN-JAIN/voting-app"
+      },
+      {
+        "company":"JAVA Commandline app",
+        "title":"JAVA, sqlite3 ",
+        "years":"SOLO project ",
+        "description":"https://github.com/PHAGUN-JAIN/CLI-java-project"
       }
     ],
     "skills":[
@@ -66,18 +73,14 @@
       {
         "name":"ReactJs",
         "level":"50%"
-      },      
+      }, 
+      {
+        "name":"Nodejs",
+        "level":"50%"
+      },
       {
         "name":"JAVASCRIPT",
         "level":"90%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"HTML",
-        "level":"80%"
       },
       {
         "name":"GIT/GITHUB",
