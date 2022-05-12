@@ -1,22 +1,22 @@
 {
   "main": {
     "name":"PHAGUN JAIN",
-    "description":"I am a uprising 3rd year BTech CSE student. This project is a  resume page",
+    "description":"A budding software engineer. This project is a  resume page",
     "image":"profilepic.jpg",
-    "bio":"I am mainly learning Devops practices and various tools used to achieve those, apart from that i am intrested in blockchain and little bit of design stuff, always looking forward for new opportunities and open for any kind of discussion",
+    "bio":"pursuing bachelors in Computer science with specialization in DevOps, apart from that I am intrested in blockchain, web3 and little bit of design stuff, always looking forward for new opportunities and open to new challenges.",
     "contactmessage":"#keep learning",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "phagunjain@pm.me",
+    "phone": "+91 9991057547",
     "github":"https://github.com/PHAGUN-JAIN",
     "project":"https://github.com/PHAGUN-JAIN/Resumepage",
     "address":{
-      "street":"(Your Street)",
+      "street":"Somewhere on planet earth",
       "city":"(Your City)",
       "state":"(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "http://",
-    "resumedownload":"http://",
+    "resumedownload":"https://drive.google.com/file/d/1coJ3XqYuFO42eFd_dRUs_PGExu7CsB3M/view?usp=sharing",
     "social":[
       {
         "name":"twitter",
@@ -25,7 +25,7 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/phagun-jain-88b532190/?originalSubdomain=in",
+        "url":"https://www.linkedin.com/in/phagun-jain-88b532190",
         "className":"fa fa-linkedin"
       },
       {
@@ -42,13 +42,13 @@
         "school":"University Of Petroleum and Energy Studies",
         "degree":"BTech (Hons.) ",
         "graduated":"CSE DEVOPS",
-        "description":"currently pursuing one of the devops program, learrning about microservices, devops practices, little bit of design and blockchain"
+        "description":"notable courses include: object oriented analysis and design, data structures, algorithms, database management systems, operating systems, application containerization, and computer networks."
       },
       {
         "school":"Hindu Vidya Peeth",
         "degree":"Non-Medical with IP",
         "graduated":"PCM",
-        "description":"Studied here from my 3rd grade till 12th grade, it was a lovely place almost was a second home for me for all those years"
+        "description":"Completed senior secondary education with Non-Medical with IP"
       }
     ],
     "work":[
@@ -79,11 +79,7 @@
         "level":"50%"
       },
       {
-        "name":"JAVASCRIPT",
-        "level":"90%"
-      },
-      {
-        "name":"GIT/GITHUB",
+        "name":"GIT",
         "level":"50%"
       },
       {
@@ -93,11 +89,29 @@
       {
         "name":"Python",
         "level":"55%"
+      },
+      {
+        "name":"MySQL",
+        "level":"55%"
+      },
+      {
+        "name":"Heroku",
+        "level":"55%"
+      },
+      {
+        "name":"AWS",
+        "level":"55%"
       }
     ]
   },
   "portfolio":{
     "projects": [
+      {
+        "title":"virtualization fundamentals for containers",
+        "category":"My Learning Blog",
+        "image":"banner.png",
+        "url":"https://dev.to/phagunjain/virtualization-fundamentals-for-containers-4mc3"
+      },
       {
         "title":"Tcp, Udp, Http ",
         "category":"My Learning Blog",
@@ -109,12 +123,6 @@
         "category":"My Learning Blog",
         "image":"banner.png",
         "url":"https://dev.to/phagunjain/why-is-it-important-to-create-a-default-constructor-explicitly-when-we-create-a-parametrized-constructor-explicitly-3pan"
-      },
-      {
-        "title":"Error: Could not...",
-        "category":"My Learning Blog",
-        "image":"banner.png",
-        "url":"https://dev.to/phagunjain/error-could-not-find-or-load-main-class-1pb9"
       },
       {
         "title":"setup jdk in windows10",
